@@ -1,0 +1,95 @@
+
+
+nav{
+    /* border: 2px solid blue; */
+    background: #000;
+}
+
+.log-in span{
+    /* border: 4px solid red; */
+    padding-right: 20px;
+}
+
+.second-section {
+
+    width: 100%;
+    
+    height: 100vh;
+    
+    background-image: url(ss.jpg);
+    
+    background-size: cover;
+    
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    
+}
+
+.second-section::before{
+
+    background: rgb(2,2,13);
+background: linear-gradient(90deg, rgba(2,2,13,1) 39%, rgba(255,255,255,1) 100%);
+
+}
+
+
+.btn-1{
+
+padding: 10px 20px;
+
+font-size: 20px;
+
+color: black;
+
+background-color: white;
+
+border: none;
+
+}
+
+.btn-2{
+
+padding: 10px 20px;
+background-color: black;
+color: white;
+border: 1px solid white;
+}    
+
+
+.third-section{
+
+    width: 100%;
+    
+    height: 120vh;
+    
+    }
+    
+.t-span{
+    
+    padding: 6px 12px;
+    
+    color: white;
+    
+    background-color: rgb(27, 27, 27);
+    
+    border: 1px solid rgb(133, 133, 133);}
+    
+.t-card{
+    
+    background-image: url(t-card-1.jpg);
+    
+    background-position: center;
+    
+    background-size: cover;}
+.t-c{
+    
+    width: 100%;
+    
+    height: 100%;
+
+    }
+
+
+
+
